@@ -1,0 +1,38 @@
+.mailblock {
+  background-color: #e7effd;
+  margin: 3px 0;
+  padding: 15px 10px;
+  transition: 0.3s;
+}
+
+.mailblock__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mailblock__sender {
+  opacity: 0.8;
+}
+
+.mailblock__date {
+  font-size: 80%;
+}
+
+.mailblock__body {
+  margin: 0;
+}
+
+.mailblock__subject {
+  margin: 5px 0;
+}
+
+.mailblock__text {
+  opacity: 0.6;
+  word-wrap: break-word;
+}
+
+.active {
+  background-color: #3f51b5;
+  color: #fafafa;
+}
