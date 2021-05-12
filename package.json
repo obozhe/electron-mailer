@@ -13,7 +13,7 @@
     "imap-simple": "^4.3.0",
     "lodash": "^4.17.15",
     "mailparser": "^2.7.7",
-    "nodemailer": "^6.4.3",
+    "nodemailer": "^6.4.16",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-html-parser": "^2.0.2"
