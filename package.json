@@ -4,7 +4,7 @@
   "devDependencies": {
     "electron": "^1.7.9",
     "foreman": "^2.0.0",
-    "react-scripts": "0.8.5"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "@material-ui/core": "^4.9.5",
